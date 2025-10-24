@@ -28,6 +28,16 @@ project.lock.json
 project.fragment.lock.json
 artifacts/
 
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.db-shm
+*.db-wal
+*.vsidx
+
 # ASP.NET Scaffolding
 ScaffoldingReadMe.txt
 
